@@ -1,0 +1,12 @@
+{
+  "name": "canvas-particle-playground",
+  "version": "1.0.0",
+  "description": "Interactive HTML5 canvas particle physics playground",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["canvas", "particles", "html5", "javascript"],
+  "author": "yizong",
+  "license": "MIT"
+}
